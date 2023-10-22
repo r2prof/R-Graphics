@@ -1,3 +1,3 @@
-R Graphics Cookbook
+# R Graphics Cookbook
 ## Practical Recipes for Visualizing Data
 
