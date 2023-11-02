@@ -1,6 +1,6 @@
-install.packages("tidyverse")
-install.packages("gcookbook")
-install.packages("readxl")
+# install.packages("tidyverse")
+# install.packages("gcookbook")
+# install.packages("readxl")
 
 
 library(ggplot2)
